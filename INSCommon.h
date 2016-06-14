@@ -16,6 +16,6 @@
 //获取指定长度的随机字符串
 + (NSString *)ins_nonce_by_length:(NSInteger)length;
 //获取手机的基本信息
-+ (NSDictionary *)ins_phone_info;
++ (NSDictionary *)ins_phone_info;  
 
 @end
